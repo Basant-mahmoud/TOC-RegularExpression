@@ -6,6 +6,4 @@ Requirements
 Solve all 10 problems using Java and regular expressions.
 The Java program should read from one input text file and produce one output text file.
 Follow the specified input and output formats for each problem.
-for more details follow assigment1.pdf
-ب
-بخق
+for more details follow assigment1.pdf.
